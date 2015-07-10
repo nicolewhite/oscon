@@ -9,7 +9,7 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/register", methods=["GET", "POST"])
+@app.route("/register")
 def register():
     return "TODO"
 
