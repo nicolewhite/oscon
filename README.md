@@ -4,8 +4,6 @@ Files needed for the OSCON workshop.
 ```
 $ pip install flask
 $ pip install py2neo
-$ pip install passlib
-$ pip install bcrypt
 ```
 
 ```
